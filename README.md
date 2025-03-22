@@ -4,14 +4,14 @@ It contains useful AI tools for expanding the functionality of your project, as 
 
 ---
 
-- <a href="https://www.autodraw.com/">AutoDraw</a> - Google's experimental drawing site using machine learning.
+<a href="https://www.autodraw.com/">AutoDraw</a> - Google's experimental drawing site using machine learning.
   - The key tool is an "automatic brush" that analyzes your sketches and tries to guess what you are drawing.
     Possible options are displayed in the upper panel. If a suitable object is displayed there, then select it.
     The service is suitable for fast but high-quality creation of an outline, layout, visualization, etc.
 
 ---
 
-- <a href="https://letsenhance.io/">letsenhancep</a> uses AI to zoom in on the image without significant loss of quality.
+<a href="https://letsenhance.io/">letsenhancep</a> uses AI to zoom in on the image without significant loss of quality.
 
 ---
 
@@ -19,7 +19,7 @@ It contains useful AI tools for expanding the functionality of your project, as 
 
 ---
 
-<a href="https://www.explainpaper.com/">speech2face arxiv</a> Upload a paper, highlight confusing text, get an explanation.
+<a href="https://www.explainpaper.com/">ExplainPaper</a> Upload a paper, highlight confusing text, get an explanation.
 
 ---
 
