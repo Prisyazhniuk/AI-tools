@@ -11,11 +11,13 @@ Contains useful AI tools for expanding the functionality of your project, as wel
 
 ---
 
-<a href="https://letsenhance.io/">letsenhancep</a> uses AI to zoom in on the image without significant loss of quality.
+<a href="https://letsenhance.io/">letsenhancep</a> 
+- uses AI to zoom in on the image without significant loss of quality.
 
 ---
 
-<a href="https://arxiv.org/abs/1905.09773v1/">speech2face arxiv</a> Face reconstruction from short audio recording.
+<a href="https://arxiv.org/abs/1905.09773v1/">speech2face arxiv</a> 
+- Face reconstruction from short audio recording.
 
 ---
 
